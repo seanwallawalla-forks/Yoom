@@ -3,6 +3,8 @@
 Open-source. Internet Messenger. Social Media Platform.
 Yoom is an open-source Scratch 3.0-powered social media and internet messenger platform. 
 
+NOTE: The pagekite server that powers the demo html files is currently down. I'm going to modify it's source code to use my CloudLink API.
+
 # Origins
 Yoom started off as a Scratch 3.0 project, powered by my SCLE (Super Cloud List Engine). As soon as the public beta was ready for testing, Scratch had a change of rules and projects such as Yoom (cloud messaging projects) were banned.
 
