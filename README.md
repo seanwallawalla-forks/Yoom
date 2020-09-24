@@ -11,7 +11,7 @@ After coming back to Scratch, I stumbled upon the Yoom project in my trash folde
 Sheeptester's HTMLifier had gotten signifigantly better than the last time I used it, and it now had support for custom cloud variable servers! With my existing code, and now access to custom cloud var servers, the Yoom project was reborn, outside of scratch and into your web browser!
 
 # Details
-Yoom runs upon SCLE, which uses CloudLink API's TCP WebSocketSecure (WSS) protocols to communicate. A home-grown python websocket server serves as the backbone. 
+Yoom runs upon the CloudLink API, which uses standard WSS protocols to communicate. A home-grown python websocket server serves as the backbone. 
 
 Downloading the source code file "yoom.sb3" and viewing it VIA [Sheeptester's Modded Scratch 3.0 Editor.](https://sheeptester.github.io/scratch-gui/?width=640&height=360) allows you to view the source code and how everything works. Or, you can view the index.html file for a demo.
 
